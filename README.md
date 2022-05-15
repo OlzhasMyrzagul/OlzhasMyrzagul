@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @asandaulet
+- 👀 I’m interested in Machine learning, Data Analysis, Computer Vision
+- 🌱 I’m currently learning Python
