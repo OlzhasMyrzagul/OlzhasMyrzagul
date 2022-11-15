@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @asandaulet
-- 👀 I’m interested in Machine learning, Data Analysis, Computer Vision
-- 🌱 I’m currently learning Python
+- I have graduated the Bachelor's in Mathematics, at SDU, Almaty
+- 👀 I’m interested in Data Science, Machine learning, Data Analysis, Computer Vision
+- 🌱 I’m currently learning Python, SQL, Statistics
