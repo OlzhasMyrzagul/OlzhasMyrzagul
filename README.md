@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @asandaulet
-- I have graduated the Bachelor's in Mathematics, at SDU, Almaty
+- 👋 Hi, I’m Olzhas
+- I am undergraduate, BSc in Mathematics, at SDU, Almaty
 - 👀 I’m interested in Data Science, Machine learning, Data Analysis, Computer Vision
 - 🌱 I’m currently learning Python, SQL, Statistics
