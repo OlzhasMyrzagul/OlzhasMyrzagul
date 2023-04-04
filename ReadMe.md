@@ -1,8 +1,6 @@
-Hello, how are you?
+# 💫 Hello, how are you?
 * I am Junior Data Analyst with a passion for Science and Business.
 * Shoot me an [Email](mailto:olzhas.myrzagul@gmail.com) or add me on [LinkedIn](https://linkedin.com/in/olzhasm) :)
-# 💫 About Me:
-🌱 I’m currently learning Data Science
 
 
 ## 🌐 Socials:
