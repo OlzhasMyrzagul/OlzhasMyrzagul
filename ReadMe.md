@@ -1,6 +1,6 @@
 Hello, how are you?
 * I am Junior Data Analyst with a passion for Science and Business.
-* Shoot me [![email]](https://linkedin.com/in/olzhasm) and add me on [![LinkedIn]](https://linkedin.com/in/olzhasm) 
+* Shoot me [email](https://linkedin.com/in/olzhasm) and add me on [LinkedIn](https://linkedin.com/in/olzhasm) 
 # 💫 About Me:
 🌱 I’m currently learning Data Science
 
