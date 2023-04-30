@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am Olzhas!
+My name is Olzhas!
 
-Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kazakhstan.
+I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kazakhstan.
 
 - 🔭  I am a hands-on learner, hence prefer learning new technologies through development.
 
