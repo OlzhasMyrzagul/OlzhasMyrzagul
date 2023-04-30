@@ -1,7 +1,14 @@
 # 💫 Hello, how are you?
-* I am Data Scientist with a passion for Science and Business.
-* Shoot me an [Email](mailto:myrzagul.olzhas@gmail.com) or add me on [LinkedIn](https://linkedin.com/in/olzhasm) :)
 
+### 👨‍💻 About Me :
+
+I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kazakhstan.
+
+- 🔭  I am a hands-on learner, hence prefer learning new technologies through development.
+
+- 🌱 Exploring Machine Learning, Data Analysis and Artificial Intelligence.
+
+- ⚡ In my free time, I analyze datasets on Kaggle and solve problems on Leetcode.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/oomph_and_moxie) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/olzhasm) 
