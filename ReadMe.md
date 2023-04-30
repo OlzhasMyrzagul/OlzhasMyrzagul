@@ -2,9 +2,7 @@
 
 I am Olzhas!
 
-### 👨‍💻 About Me :
-
-I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kazakhstan.
+Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kazakhstan.
 
 - 🔭  I am a hands-on learner, hence prefer learning new technologies through development.
 
