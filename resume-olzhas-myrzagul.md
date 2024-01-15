@@ -12,7 +12,7 @@ Operations Manager**
 
 Operations Manager @ Shaqyr Partner.
 
-- Hired for adeptly managing on-demand service operations, optimizing recruitment, and strategically contributing to business expansion while prioritizing customer satisfaction and operational efficiency.
+Hired for adeptly managing on-demand service operations, optimizing recruitment, and strategically contributing to business expansion while prioritizing customer satisfaction and operational efficiency.
 - Organized and coordinated on-demand service operations for various skilled professionals, including plumbers, electricians, carpenters, and other specialists.
 - Managed a fleet of service professionals, overseeing recruitment, training, and motivation of personnel.
 - Developed strategies for attracting new service professionals and expanding the range of offered services.
@@ -65,11 +65,11 @@ MSc in Data Science**
 
  - Graduate Teaching Assistant
 
-**Suleyman Demirel University, 2018 – 2018 <br>
+**Suleyman Demirel University, 2018 – 2022 <br>
 BSc in Applied Mathematics**
 
- - 
  - Class President
+ - Research Assistant
 
 PROJECTS
 -
