@@ -13,6 +13,7 @@ Operations Manager**
 Operations Manager @ Shaqyr Partner.
 
 Hired for adeptly managing on-demand service operations, optimizing recruitment, and strategically contributing to business expansion while prioritizing customer satisfaction and operational efficiency.
+
 - Organized and coordinated on-demand service operations for various skilled professionals, including plumbers, electricians, carpenters, and other specialists.
 - Managed a fleet of service professionals, overseeing recruitment, training, and motivation of personnel.
 - Developed strategies for attracting new service professionals and expanding the range of offered services.
@@ -74,9 +75,11 @@ BSc in Applied Mathematics**
 PROJECTS
 -
 Sales Dashboard in Power BI.
+
 - Developed a comprehensive sales dashboard project, utilizing Power BI for dynamic visualization and Excel for effective data summarization through pivot tables.
 
 Personal budgeting in Excel
+
 - Developed and implemented a personal budgeting system using Microsoft Excel, facilitating effective financial management and tracking of income, expenses, and savings.
 
 
