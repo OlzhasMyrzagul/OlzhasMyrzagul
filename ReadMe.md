@@ -46,18 +46,6 @@ Developed the startup in the USA.
 - Analyzed customer feedback data to identify pain points and opportunities for enhancing products and services.
 - Prepared competitive analysis reports highlighting strengths, weaknesses, and opportunities for the organization.
 
-<br>
-
-**Verigram, October, 2021 – January, 2022 <br>
-Data Annotator**
-
-Verigram is one of the pioneering startups in Kazakhstan specializing in computer vision.
-
-- Analyzed Computer Vision models, performing assessments on identification and verification models through various testing techniques.
-- Conducted manual testing of mobile applications (Android) and web interfaces to evaluate their functionality and usability.
-- Evaluated the suitability and quality of applications based on specific criteria and requirements.
-- Ensured the data annotation and labeling process complied with the functional specifications of the company's products.
-
 
 EDUCATION
 - 
