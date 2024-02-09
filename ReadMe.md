@@ -33,7 +33,6 @@ Graduate Teaching Assistant @ Kazakh-British Tehcnical University.
 - Administered assessments, checked assignments, and provided grades in adherence to University standards.
 - Collaborated with the professor to ensure effective implementation of hands-on learning experiences in the ICT curriculum.
 
-
 <br>
 
 **WeInvest, July, 2023 – August, 2023 <br>
@@ -45,6 +44,18 @@ Developed the startup in the USA.
 - Provided regular reports to stakeholders, enabling data-driven decision-making.
 - Analyzed customer feedback data to identify pain points and opportunities for enhancing products and services.
 - Prepared competitive analysis reports highlighting strengths, weaknesses, and opportunities for the organization.
+
+<br>
+
+**SDU, September, 2021 – May, 2022 <br>
+Undergraduate Research Assistant**
+
+Undergraduate Research Assistant @ Suleyman Demirel University.
+
+- Conducted comprehensive literature reviews to gather relevant research materials.
+- Actively participated in academic discussions, sharing insights and contributing to research development.
+- Presented our research findings at the International Young Scholars' Conference 2022.
+- Enhanced research and analytical skills, preparing for continued academic and professional growth.
 
 
 EDUCATION
