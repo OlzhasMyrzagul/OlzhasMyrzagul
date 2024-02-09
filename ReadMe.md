@@ -1,7 +1,7 @@
 
 # Olzhas Myrzagul
 ### Data Analyst
-[GitHub](https://github.com/OlzhasMyrzagul) | [LinkedIn](http://www.linkedin.com/in/olzhasm) | [Email](mailto:myrzagul.olzhas@gmail.com)
+**[GitHub](https://github.com/OlzhasMyrzagul) | [LinkedIn](http://www.linkedin.com/in/olzhasm) | [Email](mailto:myrzagul.olzhas@gmail.com)**
 
 Data & Analytics.
 
